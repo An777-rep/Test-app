@@ -1,0 +1,6 @@
+{
+  "name": "WinLink LAN",
+  "description": "Приложение для связи и управления Windows по локальной сети: передача файлов, буфер обмена, пульт ДУ, Wake-on-LAN и веб-сервер.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
